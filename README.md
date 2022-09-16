@@ -62,3 +62,5 @@ b[:, 1]
 #  array([1., 2.]) thats how you get a column
 b.sum(axis = 0) # sum along the first axis; i.e., column-wise.
 # array([ 0.,  3.,  6.,  9., 12., 15., 18., 21.])
+
+#left join 重复？
