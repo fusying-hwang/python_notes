@@ -65,3 +65,7 @@ b.sum(axis = 0) # sum along the first axis; i.e., column-wise.
 
 #left join 重复？
 ## Pd
+
+1. read and understand vnpy and cp's backtest framework
+2. refer to vnpy and write my own backtest framework to accommodate multiple stocks
+q1: Is theres a general model or every code has it's own model that is to say do we need to train a model with each code's own history data
